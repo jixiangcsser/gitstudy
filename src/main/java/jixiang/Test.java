@@ -15,6 +15,9 @@ public class Test {
   public static void add(){
       System.out.println("XXX");
   }
+  public static void oo(){
+      System.out.println("OOOOO");
+  }
 
   public static void main(String[] args){
         Test.run();
