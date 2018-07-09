@@ -46,14 +46,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
+
         <option value="$PROJECT_DIR$/src/test/java/jixiang/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/StringUtilss.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" />
-=======
->>>>>>> master
+
         <option value="$PROJECT_DIR$/src/main/java/jixiang/Test.java" />
       </list>
     </option>
@@ -68,13 +67,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
+
     <option name="x" value="165" />
     <option name="y" value="50" />
-=======
-    <option name="x" value="175" />
-    <option name="y" value="155" />
->>>>>>> master
+
     <option name="width" value="1508" />
     <option name="height" value="964" />
   </component>
