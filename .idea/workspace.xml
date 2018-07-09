@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe023d99-f8cf-472e-a27a-2757d7e2daf0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe023d99-f8cf-472e-a27a-2757d7e2daf0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +15,15 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="230">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#57#58#0" expanded="true" />
                 <element signature="e#93#94#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,12 +45,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/jixiang/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/StringUtilss.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/Test.java" />
       </list>
     </option>
   </component>
@@ -125,6 +125,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -273,7 +274,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11853000" />
+    <option name="totallyTimeSpent" value="13274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="165" y="50" width="1508" height="964" extended-state="0" />
@@ -286,7 +287,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.74282146" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3895131" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -514,6 +515,8 @@
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -545,6 +548,8 @@
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -708,13 +713,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="230">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="e#57#58#0" expanded="true" />
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
           </folding>
         </state>
       </provider>
