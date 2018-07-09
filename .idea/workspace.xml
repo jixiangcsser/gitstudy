@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe023d99-f8cf-472e-a27a-2757d7e2daf0" name="Default" comment="" />
+    <list default="true" id="56c7668b-1030-43d9-96d7-e2c0e05d21fa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,6 +19,7 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
           <provider selected="true" editor-type-id="text-editor">
+
             <state relative-caret-position="230">
               <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
@@ -24,6 +29,7 @@
                 <element signature="e#155#156#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
+
               </folding>
             </state>
           </provider>
@@ -31,13 +37,8 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,11 +46,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/test/java/jixiang/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/StringUtilss.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" />
+=======
+>>>>>>> master
         <option value="$PROJECT_DIR$/src/main/java/jixiang/Test.java" />
       </list>
     </option>
@@ -64,8 +68,13 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="165" />
     <option name="y" value="50" />
+=======
+    <option name="x" value="175" />
+    <option name="y" value="155" />
+>>>>>>> master
     <option name="width" value="1508" />
     <option name="height" value="964" />
   </component>
@@ -120,20 +129,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="jixiang" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,54 +146,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestTest.run">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jixiang.App" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jixiang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringUtilss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jixiang.StringUtilss" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jixiang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TestTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jixiang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="jixiang" />
-      <option name="MAIN_CLASS_NAME" value="jixiang.TestTest" />
-      <option name="METHOD_NAME" value="run" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -234,50 +188,34 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.StringUtilss" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.TestTest.run" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.TestTest.run" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.StringUtilss" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe023d99-f8cf-472e-a27a-2757d7e2daf0" name="Default" comment="" />
-      <created>1529994582289</created>
+      <changelist id="56c7668b-1030-43d9-96d7-e2c0e05d21fa" name="Default" comment="" />
+      <created>1531126848944</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1529994582289</updated>
-      <workItem from="1529994587829" duration="1767000" />
-      <workItem from="1530780888619" duration="6700000" />
-      <workItem from="1530841378645" duration="599000" />
-      <workItem from="1530843364241" duration="592000" />
-      <workItem from="1531118564965" duration="1193000" />
+      <updated>1531126848944</updated>
+      <workItem from="1531126851860" duration="210000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TestTest_run - 2018.07.09 at 14h 52m 17s.xml">
-      <configuration name="TestTest.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTest_run - 2018.07.09 at 14h 52m 28s.xml">
-      <configuration name="TestTest.run" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="13274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="165" y="50" width="1508" height="964" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="210000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="175" y="155" width="1508" height="964" extended-state="0" />
+    <editor active="true" />
+>>>>>>> master
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -287,12 +225,20 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3895131" />
+=======
+      <window_info anchor="bottom" id="Version Control" />
+>>>>>>> master
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+>>>>>>> master
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -300,6 +246,7 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,6 +275,14 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32917705" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+>>>>>>> master
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,6 +318,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar!/org/apache/commons/lang3/StringUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -737,9 +693,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="16" />
+>>>>>>> master
           <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
           </folding>
         </state>
       </provider>
