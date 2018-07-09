@@ -7,4 +7,7 @@ public class Test {
   public void gitadd(){
       System.out.println("我想说呢");
   }
+    public void gitadd2(){
+        System.out.println("我想说呢");
+    }
 }
