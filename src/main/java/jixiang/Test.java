@@ -22,5 +22,9 @@ public class Test {
   public static void main(String[] args){
         Test.run();
   }
+  public static void lll(){
+      System.out.println("SSSSSS");
+      System.out.println("MMMMMM");
+  }
 }
 
