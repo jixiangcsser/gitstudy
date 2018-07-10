@@ -1,5 +1,7 @@
 package jixiang;
 
+import java.sql.SQLOutput;
+
 public class Test {
   public static void run(){
       System.out.println("jjj");
@@ -25,6 +27,7 @@ public class Test {
   public static void lll(){
       System.out.println("SSSSSS");
       System.out.println("MMMMMM");
+      System.out.println("LLLLLL");
 
   }
 }
