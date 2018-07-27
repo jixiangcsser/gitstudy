@@ -7,6 +7,7 @@ public class TestController {
         LogUse logUse=new LogUse();
         System.out.println("哦我");
         logUse.doSomthing1();
+        System.out.println("我想");
     }
 
 }
