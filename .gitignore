@@ -3,3 +3,4 @@
 study.iml
 target/generated-sources/
 target/generated-test-sources/
+.idea/workspace.xml
