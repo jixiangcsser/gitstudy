@@ -20,10 +20,7 @@ public class Test {
     public void mainTest4(){
         System.out.println("在main主线下的提交1,特已修改jixiang分支下修改2");
     }
-    @org.junit.Test
-    public void mainTest4(){
-        System.out.println("在main主线下的提交1,特已修改master分支下修改2");
-    }
+
     @org.junit.Test
     public void mainTest1(){
         System.out.println("在main主线下的提交2");
