@@ -101,8 +101,8 @@
       <file leaf-file-name="TestTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/TestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+            <state relative-caret-position="452">
+              <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
               <folding>
                 <element signature="e#589#590#0" expanded="true" />
                 <element signature="e#660#661#0" expanded="true" />
@@ -581,7 +581,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91917000" />
+    <option name="totallyTimeSpent" value="92904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -594,7 +594,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -605,9 +604,9 @@
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.0858209" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.18130082" weight="0.09406495" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3975364" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3975364" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.42329228" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42329228" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
@@ -1028,8 +1027,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/TestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        <state relative-caret-position="452">
+          <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
           <folding>
             <element signature="e#589#590#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
