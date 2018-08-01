@@ -25,7 +25,8 @@ public class TestTest {
     }
     public void mergeMaster1(){
         System.out.println("Master分支上的修改1 master11:50");
-
-
+    }
+    public void mergeMaster2(){
+        System.out.println("Master分支上的修改2 master11:55");
     }
 }
