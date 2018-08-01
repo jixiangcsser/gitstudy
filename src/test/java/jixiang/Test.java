@@ -9,6 +9,9 @@ public class Test {
     public void jixiang1(){
         System.out.println("jixinag12");
     }
+    public void jixiang3(){
+        System.out.println("jixinag13");
+    }
     @org.junit.Test
     public void mainTest(){
         System.out.println("在main主线下的提交1,特已修改jixiang分支下修改1");
