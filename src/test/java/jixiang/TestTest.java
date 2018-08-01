@@ -18,16 +18,17 @@ public class TestTest {
     public void testRebase2(){
         System.out.println("这是个rebase2");
     }
-    public void mergeMaster(){
-        System.out.println("Master分支上的修改1 master11:49");
+    public void mergeJixiang(){
+        System.out.println("Master分支上的修改1 jixiang11:51");
 
 
     }
     public void mergeMaster1(){
-        System.out.println("Master1分支上的修改2 master11:50");
+
+        System.out.println("Jixiang分支上的修改1 jixiang11:50111");
     }
     public void mergeMaster2(){
-        System.out.println("Jixiang分支上的修改3 Jixiang13:54");
+        System.out.println("Jixiang分支上的修改2 Jixiang11:55");
     }
     public void jixiang1(){
         System.out.println("姬祥第二次提交内容");
