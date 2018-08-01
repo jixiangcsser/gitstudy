@@ -41,7 +41,7 @@ public class TestTest {
     }
     public void mergeMaster5(){
 
-        System.out.println("这是姬祥的第一次修改");
+        System.out.println("这是master的第一次修改");
 
     }
     public void jixiang1(){
