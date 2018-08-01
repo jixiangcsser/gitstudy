@@ -36,7 +36,6 @@ public class TestTest {
     }
     public void mergeMaster4(){
         System.out.println("这是master的第三次修改");
-
     }
     public void mergeMaster5(){
         System.out.println("这是master的第四次修改");
