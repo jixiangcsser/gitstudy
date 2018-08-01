@@ -11,4 +11,8 @@ public class TestTest {
     public void run() {
         Assert.assertTrue(true);
     }
+
+    public void testRebase(){
+        System.out.println("这是个rebase");
+    }
 }
