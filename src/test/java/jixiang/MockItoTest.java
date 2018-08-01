@@ -66,4 +66,10 @@ public class MockItoTest {
     public static void after2(){
         System.out.println("AfterClass注解的释放资源只执行一次");
     }
+
+
+    public void addRebaseTest(){
+        System.out.println("测试rebase");
+    }
+
 }
