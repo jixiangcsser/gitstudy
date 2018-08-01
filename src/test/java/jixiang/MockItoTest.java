@@ -71,5 +71,7 @@ public class MockItoTest {
     public void addRebaseTest(){
         System.out.println("测试rebase");
     }
-
+    public void addRebaseTest1(){
+        System.out.println("测试rebase1");
+    }
 }
