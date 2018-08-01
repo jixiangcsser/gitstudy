@@ -9,6 +9,9 @@ public class Test {
     public void jixiang1(){
         System.out.println("jixinag12");
     }
+    public void master(){
+        System.out.println("这是一个master1");
+    }
     public void jixiang3(){
         System.out.println("jixinag13");
     }
