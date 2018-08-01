@@ -40,7 +40,7 @@ public class TestTest {
 
     }
     public void mergeMaster5(){
-        System.out.println("mayun分支上的修改6666 Jixiang13:5466666");
+        System.out.println("mayun");
     }
     public void jixiang1(){
         System.out.println("姬祥第二次提交内容");
