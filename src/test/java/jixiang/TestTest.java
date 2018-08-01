@@ -40,7 +40,6 @@ public class TestTest {
     public void mergeMaster5(){
         System.out.println("这是master的第四次修改");
     }
-
     public void jixiang1(){
         System.out.println("姬祥第二次提交内容");
     }
