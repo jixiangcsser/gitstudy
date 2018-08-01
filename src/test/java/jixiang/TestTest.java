@@ -18,8 +18,8 @@ public class TestTest {
     public void testRebase2(){
         System.out.println("这是个rebase2");
     }
-    public void mergeMaster(){
-        System.out.println("Master分支上的修改1 master11:49");
+    public void mergeJixiang(){
+        System.out.println("Master分支上的修改1 jixiang11:51");
 
 
     }
