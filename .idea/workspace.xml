@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ead0a5c-de59-4565-8ba1-b1402668be14" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5ead0a5c-de59-4565-8ba1-b1402668be14" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,17 +101,13 @@
       <file leaf-file-name="TestTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/TestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
               <folding>
                 <element signature="e#589#590#0" expanded="true" />
                 <element signature="e#660#661#0" expanded="true" />
                 <element signature="e#692#693#0" expanded="true" />
                 <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#850#851#0" expanded="true" />
-                <element signature="e#885#886#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
                 <element signature="e#956#957#0" expanded="true" />
                 <element signature="e#1003#1004#0" expanded="true" />
               </folding>
@@ -124,8 +118,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="532" column="38" lean-forward="true" selection-start-line="532" selection-start-column="38" selection-end-line="532" selection-end-column="38" />
+            <state relative-caret-position="736">
+              <caret line="533" column="38" lean-forward="true" selection-start-line="533" selection-start-column="38" selection-end-line="533" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -587,7 +581,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91804000" />
+    <option name="totallyTimeSpent" value="91904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -910,8 +904,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="532" column="38" lean-forward="true" selection-start-line="532" selection-start-column="38" selection-end-line="532" selection-end-column="38" />
+        <state relative-caret-position="736">
+          <caret line="533" column="38" lean-forward="true" selection-start-line="533" selection-start-column="38" selection-end-line="533" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1033,17 +1027,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/TestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
           <folding>
             <element signature="e#589#590#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
             <element signature="e#692#693#0" expanded="true" />
             <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
             <element signature="e#956#957#0" expanded="true" />
             <element signature="e#1003#1004#0" expanded="true" />
           </folding>
