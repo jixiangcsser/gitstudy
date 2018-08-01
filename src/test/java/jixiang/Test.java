@@ -5,7 +5,7 @@ package jixiang;
 public class Test {
     @org.junit.Test
     public void mainTest(){
-        System.out.println("在main主线下的提交");
+        System.out.println("在main主线下的提交1,特已修改");
     }
     @org.junit.Test
     public void mainTest1(){
