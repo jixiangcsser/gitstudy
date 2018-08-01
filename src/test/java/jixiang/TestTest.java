@@ -35,11 +35,12 @@ public class TestTest {
         System.out.println("Jixiang分支上的修改2 Jixiang13:55  2223333");
     }
     public void mergeMaster4(){
+
         System.out.println("Jiyu分支上的修改5555 Jixiang13:5400000000");
 
     }
     public void mergeMaster5(){
-        System.out.println("leijun");
+        System.out.println("这是姬祥的第一次修改");
     }
     public void jixiang1(){
         System.out.println("姬祥第二次提交内容");
