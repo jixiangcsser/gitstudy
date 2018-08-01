@@ -15,4 +15,7 @@ public class TestTest {
     public void testRebase(){
         System.out.println("这是个rebase");
     }
+    public void testRebase2(){
+        System.out.println("这是个rebase2");
+    }
 }
