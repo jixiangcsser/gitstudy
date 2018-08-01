@@ -36,11 +36,11 @@ public class TestTest {
     }
     public void mergeMaster4(){
 
-        System.out.println("这是姬祥的第二次修改");
+        System.out.println("这是姬祥的第三次修改");
 
     }
     public void mergeMaster5(){
-        System.out.println("这是姬祥的第一次修改");
+        System.out.println("这是姬祥的第四次修改");
     }
     public void jixiang1(){
         System.out.println("姬祥第二次提交内容");
