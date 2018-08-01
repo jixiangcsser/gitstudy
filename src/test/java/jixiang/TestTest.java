@@ -35,13 +35,11 @@ public class TestTest {
         System.out.println("Jixiang分支上的修改2 Jixiang13:55  2223333");
     }
     public void mergeMaster4(){
-
-        System.out.println("这是姬祥的第5次修改!!");
+        System.out.println("这是master的第三次修改");
 
     }
     public void mergeMaster5(){
-        System.out.println("这是姬祥的第6次修改,就是要修改!!");
-
+        System.out.println("这是master的第四次修改");
     }
 
     public void jixiang1(){
