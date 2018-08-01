@@ -29,4 +29,7 @@ public class TestTest {
     public void mergeMaster2(){
         System.out.println("Master分支上的修改2 master11:55");
     }
+    public void jixiang1(){
+        System.out.println("姬祥第二次提交内容");
+    }
 }
