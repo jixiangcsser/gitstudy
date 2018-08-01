@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ead0a5c-de59-4565-8ba1-b1402668be14" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,16 +103,24 @@
       <file leaf-file-name="TestTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/TestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="347">
+              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
               <folding>
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="529" column="38" lean-forward="true" selection-start-line="529" selection-start-column="38" selection-end-line="529" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -200,7 +208,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="403" />
     <option name="y" value="28" />
     <option name="width" value="1290" />
@@ -231,6 +239,11 @@
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -569,7 +582,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89910000" />
+    <option name="totallyTimeSpent" value="90387000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -581,7 +594,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -592,9 +605,9 @@
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.0858209" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.18130082" weight="0.09406495" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3975364" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3975364" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32922733" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3493841" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3493841" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
@@ -891,7 +904,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="529" column="38" lean-forward="true" selection-start-line="529" selection-start-column="38" selection-end-line="529" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1011,15 +1028,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/TestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        <state relative-caret-position="347">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
           <folding>
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
           </folding>
         </state>
       </provider>
