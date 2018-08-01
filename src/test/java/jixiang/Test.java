@@ -12,22 +12,31 @@ public class Test {
     public void master(){
         System.out.println("这是一个master1");
     }
+    public void master1(){
+        System.out.println("这是一个master2");
+    }
     public void jixiang3(){
         System.out.println("jixinag13");
     }
     @org.junit.Test
     public void mainTest(){
 
-        System.out.println("在main主线下的提交1,特已修改master分支下修改");
+        System.out.println("在main主线下的提交1,特已修改master分支下修改1");
+    }
+    @org.junit.Test
+    public void mainTest5(){
+
+        System.out.println("在main主线下的提交1,特已修改master分支下修改3");
     }
     @org.junit.Test
     public void mainTest6(){
 
         System.out.println("在main主线下的提交1,特已修改master分支下修改4");
+
     }
     @org.junit.Test
     public void mainTest4(){
-        System.out.println("在main主线下的提交1,特已修改jixiang分支下修改2");
+        System.out.println("在main主线下的提交1,特已修改master分支下修改2");
 
     }
 
