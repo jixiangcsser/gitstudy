@@ -37,11 +37,11 @@ public class TestTest {
     public void mergeMaster4(){
 
 
-        System.out.println("这是姬祥的第7次修改!!,就是要写改");
+        System.out.println("这是master的第7次修改!!,就是要写改");
     }
 
     public void mergeMaster5(){
-        System.out.println("这是姬祥的第8次修改,就是要修改!!,");
+        System.out.println("这是master的第8次修改,就是要修改!!,");
 
 
     }
