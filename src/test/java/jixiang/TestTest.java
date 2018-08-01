@@ -27,7 +27,7 @@ public class TestTest {
         System.out.println("Master1分支上的修改2 master11:50");
     }
     public void mergeMaster2(){
-        System.out.println("Jixiang分支上的修改2 Jixiang11:55");
+        System.out.println("Jixiang分支上的修改3 Jixiang13:54");
     }
     public void jixiang1(){
         System.out.println("姬祥第二次提交内容");
