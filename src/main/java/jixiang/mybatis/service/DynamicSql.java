@@ -53,5 +53,7 @@ public class DynamicSql  {
         System.out.println(student);
         System.out.println(System.currentTimeMillis());
         System.out.println("这是回退前的添加");
+        System.out.println("回退前的添加2");
+
     }
 }

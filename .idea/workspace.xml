@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ead0a5c-de59-4565-8ba1-b1402668be14" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingdong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lingdong.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/UUID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/UUID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/UUID.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/UUID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/MockItoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/MockItoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/TestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/TestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,8 +82,8 @@
       <file leaf-file-name="DynamicSql.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+            <state relative-caret-position="271">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -250,6 +239,11 @@
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -648,7 +642,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194405000" />
+    <option name="totallyTimeSpent" value="194552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,8 +654,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="0" width="1443" height="958" extended-state="0" />
-    <editor active="true" />
+    <frame x="261" y="1" width="1443" height="958" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -672,10 +665,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5105691" side_tool="true" weight="0.32871535" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.020968908" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.18130082" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3279703" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32922733" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3361045" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.18130082" weight="0.33333334" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32704404" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32830188" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33584905" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18944325" />
@@ -687,15 +680,39 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38113207" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" x="0" y="0" width="367" height="764" id="Documentation" order="4" side_tool="true" weight="0.329602" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5105691" side_tool="true" weight="0.32871535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18944325" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3361045" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.020968908" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32922733" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" x="0" y="0" width="367" height="764" id="Documentation" order="4" side_tool="true" weight="0.329602" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3292683" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3279703" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38113207" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.18130082" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4894309" weight="0.32298136" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="2" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1029,9 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1113,8 +1127,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        <state relative-caret-position="271">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
