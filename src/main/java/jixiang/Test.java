@@ -52,7 +52,7 @@ public class Test {
       String week=String.valueOf(calendar.get(Calendar.DAY_OF_WEEK)-1);
       System.out.println("现在时间是："+year+"年"+month+"月"+day+"日，星期"+week);
 
-
+      System.out.println(Integer.class.toString());
 
   }
   public static void lll(){

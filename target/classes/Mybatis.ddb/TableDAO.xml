@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper  namespace="jixiang.mybatis.mapper.TableDaoMapper">
+
+    <sql id="student">
+        id,name,Telnum,age,property
+    </sql>
+    <resultMap id="mystudents" type="jixiang.mybatis.model.Student">
+        <constructor>
+            <idArg column="id" javaType="integer"></idArg>
+            <arg column="name" javaType="string"></arg>
+            <arg column="Telnum" javaType="string"></arg>
+            <arg column="age" javaType="integer"></arg>
+            <arg column="property" javaType="bigdecimal"></arg>
+        </constructor>
+        <id column="id" property="userId" jdbcType="INTEGER"/>
+        <result column="name" property="myName" jdbcType="VARCHAR"/>
+        <result column="Telnum" property="telnum" jdbcType="VARCHAR"/>
+        <result column="age" property="myage" jdbcType="INTEGER"/>
+        <result column="property" property="money" jdbcType="NUMERIC"/>
+    </resultMap>
+
+    <resultMap id="students" type="jixiang.mybatis.model.Student">
+
+        <id column="id" property="userId"/>
+        <id column="name" property="myName"/>
+        <id column="Telnum" property="telnum"/>
+        <id column="age" property="myage"/>
+    </resultMap>
+    <insert id="insertValue" useGeneratedKeys="true" keyProperty="userId" parameterType="jixiang.mybatis.model.Student">
+
+        INSERT into students1(name,Telnum,age) VALUES (#{name},#{telnum},#{age})
+    </insert>
+    <insert id="insertValueWithObject" useGeneratedKeys="true" keyProperty="userId" parameterType="jixiang.mybatis.model.Student">
+
+        INSERT into students1(id,name,Telnum,age) VALUES (#{userId},#{myName},#{telnum},#{myage})
+    </insert>
+    <insert id="insertMoney" parameterType="student" useGeneratedKeys="true" keyProperty="userId">
+        INSERT  into students1(name,Telnum,age,property)VALUES (#{name},#{telnum},#{age},#{money,jdbcType=NUMERIC,numericScale=2 })
+    </insert>
+
+    <select id="selectName" parameterType="string" fetchSize="5" resultMap="students">
+        SELECT  * from students1 where name=#{name}
+    </select>
+    <select id="selectMayunCount" parameterType="string" resultType="int">
+        SELECT count(*) from students1 where name=#{name}
+    </select>
+    <select id="selectFuzzybyIdAndName" parameterType="student" resultMap="students">
+        SELECT * from students1 where name like concat("%",#{name},"%")
+        and age = concat(#{age},"0")
+    </select>
+    <select id="getMoney" parameterType="int" resultMap="mystudents">
+        SELECT
+        <include refid="student" ></include>
+        from students1 where id=#{id}
+    </select>
+    <select id="getTest" resultType="bigdecimal">
+        SELECT property from students1 where id=#{id} and name=#{name}
+    </select>
+    <insert id="insertStudentBySex" useGeneratedKeys="true" parameterType="studentVO" >
+        INSERT into students1(name,Telnum,age,
+        <if test="sex =='male'">
+            length
+        </if>
+        <if test="sex =='female'">
+            width
+        </if>
+        )VALUES ("liulin","13564587862",29,100)
+    </insert>
+    <cache/>
+</mapper>
+

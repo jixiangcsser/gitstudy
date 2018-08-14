@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="jixiang.mybatis.mapper.TestDaoMapper1">
+    <sql id="male">
+           id,name,Telnum,age,property,length
+    </sql>
+    <sql id="female">
+        id,name,Telnum,age,property,width
+    </sql>
+    <sql id="noFemaleAndmale">
+        id,name,Telnum,age,property
+    </sql>
+
+    <resultMap id="students" type="jixiang.mybatis.model.Student">
+
+            <constructor>
+                <idArg column="id" javaType="integer"></idArg>
+                <arg column="name" javaType="string"></arg>
+                <arg column="Telnum" javaType="string"></arg>
+                <arg column="age" javaType="integer"></arg>
+                <arg column="property" javaType="bigdecimal"></arg>
+                <arg column="width" javaType="integer"></arg>
+                <arg column="length" javaType="integer"></arg>
+            </constructor>
+            <id column="id" property="userId" jdbcType="INTEGER"/>
+            <result column="name" property="myName" jdbcType="VARCHAR"/>
+            <result column="Telnum" property="telnum" jdbcType="VARCHAR"/>
+            <result column="age" property="myage" jdbcType="INTEGER"/>
+            <result column="property" property="money" jdbcType="NUMERIC"/>
+            <result column="width" property="width" jdbcType="INTEGER"/>
+            <result column="length" property="length" jdbcType="INTEGER"/>
+    </resultMap>
+
+    <select id="selcetIdByNameOrTelnum" parameterType="student" resultMap="students">
+        SELECT
+        <choose>
+            <when test="width!=null">
+                <include refid="male"></include>
+            </when>
+            <when test="length!=null">
+                <include refid="female"></include>
+            </when>
+            <otherwise>
+                <include refid="noFemaleAndmale"></include>
+            </otherwise>
+        </choose>
+         FROM students1 WHERE id=#{userId}
+    </select>
+    <select id="selectInfoByManyInfomation" resultMap="students">
+        SELECT * FROM students1
+        <trim prefix="where" prefixOverrides="and">
+            <choose>
+                <when test="userId !=null">
+                    AND id=#{userId}
+                </when>
+                <when test="myName !=null">
+                    AND name=#{myName}
+                </when>
+                <otherwise>
+                    AND age=#{myage}
+                </otherwise>
+            </choose>
+        </trim>
+    </select>
+    <select id="selectByNameList" parameterType="collection" resultMap="students">
+        select * from students1
+        where name in
+        <foreach item="student" index="index"  collection="list" open="(" separator=","
+                 close=")">
+            #{index}
+        </foreach>
+    </select>
+    <select id="lazzySelectList" resultType="jixiang.mybatis.model.Student">
+        <bind name="vagueName" value="myName+'%'"/>
+
+        select * from students1
+        where name like #{vagueName}
+    </select>
+    <update id="updateName">
+        update students1
+          <set>
+              <if test="userId!=null">
+                  id=90900,
+              </if>
+              <if test="myName!=null">
+                  name="jixiang"
+              </if>
+          </set>
+        where id=#{userId}
+    </update>
+</mapper>
