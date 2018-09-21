@@ -15,8 +15,8 @@ public interface TableDaoMapper {
     List<Student> selectFuzzybyIdAndName(Student student);
     int insertMoney(Student student);
     Student getMoney(Integer id);
-    BigDecimal getTest(@Param("id") Integer id,@Param("name") String name);
     int insertStudentBySex(StudentVO studentVO);
+    List<Student> selectAll(@Param("offset") int offset,@Param("pageSize") int pageSize);
 
 
 }

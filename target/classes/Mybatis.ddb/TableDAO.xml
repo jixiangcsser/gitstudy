@@ -57,8 +57,9 @@
         <include refid="student" ></include>
         from students1 where id=#{id}
     </select>
-    <select id="getTest" resultType="bigdecimal">
-        SELECT property from students1 where id=#{id} and name=#{name}
+    
+    <select id="selectAll" resultType="jixiang.mybatis.model.Student">
+        select * from students1 limit #{offset},#{pageSize};
     </select>
     <insert id="insertStudentBySex" useGeneratedKeys="true" parameterType="studentVO" >
         INSERT into students1(name,Telnum,age,

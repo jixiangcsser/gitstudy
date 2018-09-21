@@ -2,15 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ead0a5c-de59-4565-8ba1-b1402668be14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jixiang/reflect/MyClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jixiang/reflect/MyClassLoader2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lingdong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lingdong.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/UUID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/UUID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TableDaoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TableDaoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/study/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/study/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/study/TestFanXing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/study/TestFanXing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/knowledge/ListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/knowledge/ListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/work/Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/work/Json.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resource/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mybatis.ddb/TableDAO.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Mybatis.ddb/TableDAO.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/jixiang/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/CException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/CException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Jixiang$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Jixiang$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Jixiang.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Jixiang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListSet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListSet$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListSet$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListTransform$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListTransform$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListTransform.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListTransform.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/LogUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/LogUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/MapsUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/MapsUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/PersonDb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/PersonDb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/PersonVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/PersonVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Persons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Persons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/SetsUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/SetsUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/StringToList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/StringToList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/StringUtilss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/StringUtilss.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/TestController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/jixiang/UUID.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/UUID.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Util/SqlSessionFactoryUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Util/SqlSessionFactoryUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/YiYuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/YiYuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/equals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/equals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/master.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/master.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TableDaoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TableDaoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TestDaoMapper1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TestDaoMapper1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/StudentVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/StudentVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/service/DynamicSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/service/DynamicSql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/runtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/runtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/service/SqlSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/service/SqlSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/service/constructorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/service/constructorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/service/insertData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/service/insertData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/Compile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/Compile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/TestFanXing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/TestFanXing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/testException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/testException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/ListReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/ListReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/NullPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/NullPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/ByeHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/ByeHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/HelloHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/HelloHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/Gooods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/Gooods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/Json.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/Json.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/MiniApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/MiniApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/PictureVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/PictureVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lingdong-4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-jixiang.TestTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jixiang.TestTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/JSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/JSuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/ListSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/ListSetTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/MockItoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/MockItoTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/TestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/TestTest.class" afterDir="false" />
@@ -39,74 +110,114 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="insertData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/service/insertData.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="342">
+              <caret line="107" column="27" lean-forward="true" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gooods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/work/Gooods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractStringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="442" column="7" selection-start-line="442" selection-start-column="7" selection-end-line="442" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32066">
+              <caret line="116" column="20" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#4677#4678#0" expanded="true" />
+                <element signature="e#4714#4715#0" expanded="true" />
+                <element signature="e#5687#5688#0" expanded="true" />
+                <element signature="e#5750#5751#0" expanded="true" />
+                <element signature="e#21961#21962#0" expanded="true" />
+                <element signature="e#22041#22042#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDaoMapper1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TestDaoMapper1.xml">
+      <file leaf-file-name="StringBuffer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1725">
-              <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+            <state relative-caret-position="1106">
+              <caret line="155" column="29" lean-forward="true" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TableDAO.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml">
+      <file leaf-file-name="CollectionUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/work/collectionUtil/CollectionUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="51" column="70" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="70" />
+            <state relative-caret-position="969">
+              <caret line="51" column="44" selection-end-line="54" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDaoMapper1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TestDaoMapper1.java">
+      <file leaf-file-name="Character.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/Character.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="227">
+              <caret line="6308" column="25" selection-start-line="6308" selection-start-column="25" selection-end-line="6308" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#225086#225087#0" expanded="true" />
+                <element signature="e#225135#225136#0" expanded="true" />
+                <element signature="e#226343#226344#0" expanded="true" />
+                <element signature="e#226416#226417#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="constructorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/service/constructorTest.java">
+      <file leaf-file-name="CharacterData.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/CharacterData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="208">
+              <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynamicSql.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+            <state relative-caret-position="17404">
+              <caret line="967" column="39" selection-start-line="967" selection-start-column="39" selection-end-line="967" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#23782#23783#0" expanded="true" />
+                <element signature="e#23836#23837#0" expanded="true" />
+                <element signature="e#24679#24680#0" expanded="true" />
+                <element signature="e#24723#24724#0" expanded="true" />
+                <element signature="e#30204#30205#0" expanded="true" />
+                <element signature="e#30249#30250#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SqlSessionFactoryUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Util/SqlSessionFactoryUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -116,8 +227,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -131,6 +242,23 @@
       <find>mysql</find>
       <find>insertValue</find>
       <find>insert</find>
+      <find>这个线程先结束</find>
+      <find>run</find>
+      <find>Thread</find>
+      <find>Thread()</find>
+      <find>start()</find>
+      <find>findclass</find>
+      <find>put</find>
+      <find>putAll</find>
+      <find>Entry</find>
+      <find>iterator</find>
+      <find>Values</find>
+      <find>to</find>
+      <find>toS</find>
+      <find>EntrySet</find>
+      <find>remove</find>
+      <find>toString</find>
+      <find>hash</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,46 +268,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/StringUtilss.java" />
-        <option value="$PROJECT_DIR$/src/test/java/jixiang/MockitoDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/Jixiang.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/MapsUse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/SetsUse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/equals.java" />
-        <option value="$PROJECT_DIR$/src/main/resource/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/StringToList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/ListTransform.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/runtest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/ListSet.java" />
-        <option value="$PROJECT_DIR$/src/test/java/jixiang/ListSetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/LogUse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/master.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/TestController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/jixiang/JSuit.java" />
-        <option value="$PROJECT_DIR$/src/test/java/jixiang/MockItoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/jixiang/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/jixiang/TestTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/work/Category.java" />
-        <option value="$PROJECT_DIR$/src/main/java/work/Gooods.java" />
         <option value="$PROJECT_DIR$/src/main/java/work/MiniApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/work/PictureVO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/work/Json.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/study/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/study/Compile.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/UUID.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/TestFanXing.java" />
-        <option value="$PROJECT_DIR$/src/main/resource/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/jixiang/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/knowledge/NullPoint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/knowledge/ListReverse.java" />
         <option value="$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/ByeHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/HelloHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/Handler.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/service/constructorTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/service/SqlSession.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/mybatis/model/StudentVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/mybatis/TableDaoMapper.java" />
@@ -190,7 +290,35 @@
         <option value="$PROJECT_DIR$/src/main/java/jixiang/service/insertData.java" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TestDaoMapper1.java" />
         <option value="$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TestDaoMapper1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TableDaoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml" />
         <option value="$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java" />
+        <option value="$PROJECT_DIR$/src/test/java/jixiang/study/BigdecimalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/TestChangliang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/Bigdecimal.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/resource/springbeans.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/mybatis/Controller/TestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/JavaVMStackSOF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/EqualTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/LogUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/EffectiveJava.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/MemoryDrain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/SoftReferenceAndWeakReference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/TestFanXing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/study/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/knowledge/ListReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/work/BrandGoodsParamsVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/work/Json.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/reflect/MyClassLoader2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/reflect/MyClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/MockBIData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/work/collectionUtil/CollectionUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jixiang/Test.java" />
       </list>
     </option>
   </component>
@@ -209,23 +337,18 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="lingdong" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="261" />
-    <option name="y" value="1" />
-    <option name="width" value="1443" />
-    <option name="height" value="958" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="328" />
+    <option name="y" value="2" />
+    <option name="width" value="1407" />
+    <option name="height" value="976" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -233,17 +356,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="study" type="1abcf292:AndroidViewProjectNode" />
-              <item name="study" type="e9137016:NonAndroidModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,7 +387,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -283,104 +395,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="ResponChain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis.ddb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="collectionUtil" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -393,13 +417,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.1515513" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="settings.editor.splitter.proportion" value="0.27696794" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="jixiang.study" />
       <recent name="jixiang" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -421,20 +446,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DynamicSql">
-    <configuration name="DynamicSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jixiang.mybatis.service.DynamicSql" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Json" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.Json" />
       <module name="lingdong" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jixiang.mybatis.service.*" />
+          <option name="PATTERN" value="work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NullPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="knowledge.NullPoint" />
+    <configuration name="ListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="knowledge.ListReverse" />
       <module name="lingdong" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -444,43 +469,41 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SqlSession" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jixiang.service.SqlSession" />
+    <configuration name="MyClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jixiang.reflect.MyClassLoader" />
       <module name="lingdong" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jixiang.service.*" />
+          <option name="PATTERN" value="jixiang.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyClassLoader2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jixiang.reflect.MyClassLoader2" />
+      <module name="lingdong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jixiang.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="knowledge.designpattern.ResponChain.Test" />
+      <option name="MAIN_CLASS_NAME" value="jixiang.Test" />
       <module name="lingdong" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="knowledge.designpattern.ResponChain.*" />
+          <option name="PATTERN" value="jixiang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="insertData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="jixiang.service.insertData" />
-      <module name="lingdong" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jixiang.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -521,19 +544,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.insertData" />
-      <item itemvalue="Application.NullPoint" />
+      <item itemvalue="Application.ListReverse" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.SqlSession" />
-      <item itemvalue="Application.DynamicSql" />
+      <item itemvalue="Application.Json" />
+      <item itemvalue="Application.MyClassLoader" />
+      <item itemvalue="Application.MyClassLoader2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DynamicSql" />
-        <item itemvalue="Application.insertData" />
-        <item itemvalue="Application.SqlSession" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.NullPoint" />
+        <item itemvalue="Application.MyClassLoader" />
+        <item itemvalue="Application.MyClassLoader2" />
+        <item itemvalue="Application.Json" />
+        <item itemvalue="Application.ListReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -583,6 +606,41 @@
       <workItem from="1534075479955" duration="1518000" />
       <workItem from="1534124643294" duration="2538000" />
       <workItem from="1534210987133" duration="1410000" />
+      <workItem from="1534297263032" duration="8723000" />
+      <workItem from="1534383243018" duration="239000" />
+      <workItem from="1534385623165" duration="4265000" />
+      <workItem from="1534469950130" duration="1947000" />
+      <workItem from="1534728728602" duration="3531000" />
+      <workItem from="1534830463185" duration="1402000" />
+      <workItem from="1534902514086" duration="2329000" />
+      <workItem from="1534989060859" duration="2668000" />
+      <workItem from="1535008633643" duration="4141000" />
+      <workItem from="1535080320470" duration="1621000" />
+      <workItem from="1535109836972" duration="3978000" />
+      <workItem from="1535259794493" duration="592000" />
+      <workItem from="1535333717474" duration="6064000" />
+      <workItem from="1535426420949" duration="12096000" />
+      <workItem from="1535507009817" duration="2737000" />
+      <workItem from="1535597731626" duration="17237000" />
+      <workItem from="1535679350698" duration="4888000" />
+      <workItem from="1535888037113" duration="337000" />
+      <workItem from="1535938780115" duration="5591000" />
+      <workItem from="1536026699897" duration="2184000" />
+      <workItem from="1536111652687" duration="596000" />
+      <workItem from="1536197926115" duration="1018000" />
+      <workItem from="1536199257143" duration="382000" />
+      <workItem from="1536562325402" duration="1092000" />
+      <workItem from="1536571563692" duration="2198000" />
+      <workItem from="1536737397943" duration="778000" />
+      <workItem from="1536802688837" duration="4293000" />
+      <workItem from="1536888971956" duration="5520000" />
+      <workItem from="1536985515930" duration="3546000" />
+      <workItem from="1537067704564" duration="7171000" />
+      <workItem from="1537148600673" duration="6096000" />
+      <workItem from="1537235401485" duration="19374000" />
+      <workItem from="1537321120585" duration="10517000" />
+      <workItem from="1537407389197" duration="22477000" />
+      <workItem from="1537494192688" duration="5891000" />
     </task>
     <task id="LOCAL-00001" summary="测试合并冲突的发生">
       <created>1532684279899</created>
@@ -616,15 +674,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MockItoTest_run2 - 2018.07.31 at 14h 37m 55s.xml">
-      <configuration name="MockItoTest.run2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockItoTest_run2 - 2018.07.31 at 14h 39m 18s.xml">
-      <configuration name="MockItoTest.run2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockItoTest_run2 - 2018.07.31 at 14h 40m 53s.xml">
-      <configuration name="MockItoTest.run2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MockItoTest_run2 - 2018.07.31 at 14h 41m 22s.xml">
       <configuration name="MockItoTest.run2" configurationId="JUnit" />
     </history-entry>
@@ -646,9 +695,18 @@
     <history-entry file="JSuit - 2018.07.31 at 14h 57m 13s.xml">
       <configuration name="JSuit" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BigdecimalTest_testMock - 2018.08.15 at 10h 25m 31s.xml">
+      <configuration name="BigdecimalTest.testMock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigdecimalTest_testMock - 2018.08.15 at 10h 35m 53s.xml">
+      <configuration name="BigdecimalTest.testMock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigdecimalTest_testMock - 2018.08.15 at 10h 36m 03s.xml">
+      <configuration name="BigdecimalTest.testMock" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194405000" />
+    <option name="totallyTimeSpent" value="383522000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,42 +718,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="0" width="1443" height="958" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4894309" weight="0.32298136" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4878049" weight="0.32026875" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5105691" side_tool="true" weight="0.32871535" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.020968908" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.81497055" side_tool="true" weight="0.21648216" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.29847494" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.18130082" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3279703" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32698768" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.18502943" weight="0.33706608" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32922733" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3361045" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33482644" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18944325" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69204926" visible="true" weight="0.19083156" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info anchor="right" id="Database" order="3" weight="0.3292683" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.30795074" side_tool="true" weight="0.20118782" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38113207" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32922733" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="367" height="764" id="Documentation" order="4" side_tool="true" weight="0.329602" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -740,384 +797,437 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/jixiang/service/insertData.java</url>
-          <line>55</line>
+          <url>jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java</url>
+          <line>830</line>
           <properties />
-          <option name="timeStamp" value="20" />
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/jixiang/service/insertData.java</url>
-          <line>23</line>
+          <url>jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java</url>
+          <line>857</line>
           <properties />
-          <option name="timeStamp" value="22" />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java</url>
+          <line>842</line>
+          <properties />
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="61" />
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>modCount</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>modCount
+        }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>thread.start()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>get(list)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>get(list1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/master.java">
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/ThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="589">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/SetsUse.java">
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/TimeUnit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="2223">
+          <caret line="150" column="47" selection-start-line="150" selection-start-column="47" selection-end-line="150" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/work/Category.java">
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="6726">
+          <caret line="381" column="33" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/work/Gooods.java">
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/work/MiniApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/JSuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/ListSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/MockitoDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="308" column="2" selection-start-line="308" selection-start-column="2" selection-end-line="308" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/MockItoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1541">
-          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/App.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/equals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Jixiang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/work/PictureVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/work/Json.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/SqlSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/jixiang/TestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/UUID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/study/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/study/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/study/TestFanXing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/study/Compile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/org/apache/commons/collections/MapUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="502" column="28" selection-start-line="502" selection-start-column="28" selection-end-line="502" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/knowledge/NullPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/ByeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/HelloHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/knowledge/designpattern/ResponChain/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="172" column="17" selection-start-line="172" selection-start-column="17" selection-end-line="172" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="84" lean-forward="true" selection-start-line="5" selection-start-column="84" selection-end-line="5" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/service/SqlSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/knowledge/ListReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/mybatis-conf.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/model/StudentVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="22135">
+          <caret line="1238" column="30" selection-start-line="1238" selection-start-column="30" selection-end-line="1238" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="296" column="38" selection-start-line="296" selection-start-column="38" selection-end-line="296" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="362" column="14" selection-start-line="362" selection-start-column="14" selection-end-line="362" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/io/ExpiringCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="617" selection-start-line="617" selection-end-line="617" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="849" selection-start-line="849" selection-end-line="849" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="259" selection-start-line="259" selection-end-line="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/io/Win32FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="426" selection-start-line="426" selection-end-line="426" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/jar/JarVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/misc/JarIndex.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1330">
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/jar/JarFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/jar/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/jar/Attributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="569" column="22" lean-forward="true" selection-start-line="569" selection-start-column="22" selection-end-line="569" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/AbstractSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="57" column="54" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="979" column="58" lean-forward="true" selection-start-line="979" selection-start-column="58" selection-end-line="979" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/reflect/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3154">
+          <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41610">
+          <caret line="2243" column="28" selection-start-line="2243" selection-start-column="28" selection-end-line="2243" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="489" column="30" selection-start-line="489" selection-start-column="30" selection-end-line="489" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="402" column="18" selection-start-line="402" selection-start-column="18" selection-end-line="402" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="600" column="31" selection-start-line="600" selection-start-column="31" selection-end-line="600" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="281" column="27" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/MockBIData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.3/aspectjweaver-1.7.3.jar!/org/aspectj/weaver/Iterators.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1.jar!/com/google/common/collect/Lists.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="257" column="12" selection-start-line="257" selection-start-column="12" selection-end-line="257" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/io/ObjectStreamField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68172">
+          <caret line="3659" column="25" selection-start-line="3659" selection-start-column="25" selection-end-line="3659" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17404">
+          <caret line="967" column="39" selection-start-line="967" selection-start-column="39" selection-end-line="967" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#23782#23783#0" expanded="true" />
+            <element signature="e#23836#23837#0" expanded="true" />
+            <element signature="e#24679#24680#0" expanded="true" />
+            <element signature="e#24723#24724#0" expanded="true" />
+            <element signature="e#30204#30205#0" expanded="true" />
+            <element signature="e#30249#30250#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2116">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        <state relative-caret-position="539">
+          <caret line="748" column="3" selection-start-line="748" selection-start-column="3" selection-end-line="752" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TableDaoMapper.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/3.0.2.RELEASE/thymeleaf-3.0.2.RELEASE.jar!/org/thymeleaf/util/StringUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="204">
+          <caret line="181" column="43" lean-forward="true" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/service/constructorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/work/collectionUtil/CollectionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="969">
+          <caret line="51" column="44" selection-end-line="54" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TestDaoMapper1.java">
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="1106">
+          <caret line="155" column="29" lean-forward="true" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="442" column="7" selection-start-line="442" selection-start-column="7" selection-end-line="442" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="6308" column="25" selection-start-line="6308" selection-start-column="25" selection-end-line="6308" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#225086#225087#0" expanded="true" />
+            <element signature="e#225135#225136#0" expanded="true" />
+            <element signature="e#226343#226344#0" expanded="true" />
+            <element signature="e#226416#226417#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml">
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="51" column="70" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TestDaoMapper1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/service/insertData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        <state relative-caret-position="-32066">
+          <caret line="116" column="20" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
+            <element signature="e#21961#21962#0" expanded="true" />
+            <element signature="e#22041#22042#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/work/Gooods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1702">
-          <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Util/SqlSessionFactoryUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="107" column="27" lean-forward="true" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1288,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

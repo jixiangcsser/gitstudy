@@ -11,6 +11,7 @@ import org.apache.ibatis.session.SqlSession;
 
 import java.lang.instrument.Instrumentation;
 import java.sql.Time;
+import java.util.LinkedList;
 import java.util.List;
 
 
@@ -52,5 +53,19 @@ public class DynamicSql  {
 
         System.out.println(student);
         System.out.println(System.currentTimeMillis());
+        final LinkedList<Integer> i=Lists.newLinkedList();
+        i.add(3);
+        i.add(3);
+        final Thread thread=new Thread(new Runnable() {
+            public void run() {
+                try {
+                    Thread.sleep(1000);
+                    System.out.println("nihao");
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        thread.start();
     }
 }
