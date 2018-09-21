@@ -170,6 +170,9 @@ public class Test {
         System.out.println("SSSSSS");
         System.out.println("这是Testbranch的第一次提交");
         System.out.println("这是Testbranch的第二次提交");
+      System.out.println("SSSSSS");
+      System.out.println("Master第一次修改");
+      System.out.println("Master第二次修改");
 
     }
 
