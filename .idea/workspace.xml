@@ -1,91 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ead0a5c-de59-4565-8ba1-b1402668be14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jixiang/reflect/MyClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jixiang/reflect/MyClassLoader2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lingdong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lingdong.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TableDaoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TableDaoMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/study/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/study/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jixiang/study/TestFanXing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jixiang/study/TestFanXing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/knowledge/ListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/knowledge/ListReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/work/Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/work/Json.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resource/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resource/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mybatis.ddb/TableDAO.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Mybatis.ddb/TableDAO.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/CException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/CException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Jixiang$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Jixiang$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Jixiang.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Jixiang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListSet$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListSet$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListSet$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListTransform$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListTransform$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/ListTransform.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/ListTransform.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/LogUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/LogUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/MapsUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/MapsUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/PersonDb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/PersonDb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/PersonVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/PersonVo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Persons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Persons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/SetsUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/SetsUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/StringToList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/StringToList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/StringUtilss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/StringUtilss.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/UUID.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/UUID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/Util/SqlSessionFactoryUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/Util/SqlSessionFactoryUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/YiYuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/YiYuan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/equals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/equals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/master.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/master.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TableDaoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TableDaoMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TestDaoMapper1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/mapper/TestDaoMapper1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/StudentVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/model/StudentVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/mybatis/service/DynamicSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/mybatis/service/DynamicSql.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/runtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/runtest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/service/SqlSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/service/SqlSession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/service/constructorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/service/constructorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/service/insertData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/service/insertData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/Compile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/Compile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/study/TestFanXing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/study/TestFanXing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jixiang/testException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jixiang/testException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/ListReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/ListReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/NullPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/NullPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/ByeHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/ByeHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Handler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/HelloHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/HelloHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/knowledge/designpattern/ResponChain/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/work/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/work/Gooods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/Gooods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/work/Json.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/Json.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/work/MiniApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/MiniApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/work/PictureVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/work/PictureVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lingdong-4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-jixiang.TestTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jixiang.TestTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/JSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/JSuit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/ListSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/ListSetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/MockItoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/MockItoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jixiang/TestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/jixiang/TestTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="5ead0a5c-de59-4565-8ba1-b1402668be14" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,6 +9,17 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/study$ClassReloader.ic" NAME="ClassReloader Coverage Results" MODIFIED="1548067619688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>jixiang.study.myclassloader.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/study$TestController.ic" NAME="TestController Coverage Results" MODIFIED="1546925467566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>jixiang.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/study$DynamicSql_duplicateTest.ic" NAME="DynamicSql.duplicateTest Coverage Results" MODIFIED="1546919499936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>jixiang.mybatis.service.*</FILTER>
+    </SUITE>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -110,114 +37,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Test.java">
+      <file leaf-file-name="TableDaoMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TableDaoMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="107" column="27" lean-forward="true" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+            <state relative-caret-position="57">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gooods.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/work/Gooods.java">
+      <file leaf-file-name="TableDAO.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TableDAO.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="TyMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resource/Mybatis.ddb/TyMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java">
+      <file leaf-file-name="TyMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/mapper/TyMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractStringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
+      <file leaf-file-name="DynamicSql.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/mybatis/service/DynamicSql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="442" column="7" selection-start-line="442" selection-start-column="7" selection-end-line="442" selection-end-column="7" />
+            <state relative-caret-position="433">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <file leaf-file-name="SqlSessionFactoryUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/Util/SqlSessionFactoryUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32066">
-              <caret line="116" column="20" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="20" />
+            <state relative-caret-position="570">
+              <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetClassLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/study/myclassloader/NetClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="51" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
               <folding>
-                <element signature="e#4677#4678#0" expanded="true" />
-                <element signature="e#4714#4715#0" expanded="true" />
-                <element signature="e#5687#5688#0" expanded="true" />
-                <element signature="e#5750#5751#0" expanded="true" />
-                <element signature="e#21961#21962#0" expanded="true" />
-                <element signature="e#22041#22042#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBuffer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuffer.java">
+      <file leaf-file-name="ClassReloader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jixiang/study/myclassloader/ClassReloader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1106">
-              <caret line="155" column="29" lean-forward="true" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CollectionUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/work/collectionUtil/CollectionUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="51" column="44" selection-end-line="54" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Character.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="6308" column="25" selection-start-line="6308" selection-start-column="25" selection-end-line="6308" selection-end-column="25" />
+            <state relative-caret-position="456">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
-                <element signature="e#225086#225087#0" expanded="true" />
-                <element signature="e#225135#225136#0" expanded="true" />
-                <element signature="e#226343#226344#0" expanded="true" />
-                <element signature="e#226416#226417#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CharacterData.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/CharacterData.java">
+      <file leaf-file-name="FastJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/work/babyPlan/FastJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+            <state>
+              <caret column="21" selection-start-column="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
+      <file leaf-file-name="ClassLoader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/ClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17404">
-              <caret line="967" column="39" selection-start-line="967" selection-start-column="39" selection-end-line="967" selection-end-column="39" />
-              <folding>
-                <element signature="e#23782#23783#0" expanded="true" />
-                <element signature="e#23836#23837#0" expanded="true" />
-                <element signature="e#24679#24680#0" expanded="true" />
-                <element signature="e#24723#24724#0" expanded="true" />
-                <element signature="e#30204#30205#0" expanded="true" />
-                <element signature="e#30249#30250#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2318">
+              <caret line="180" column="48" selection-start-line="180" selection-start-column="48" selection-end-line="180" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -345,10 +252,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="328" />
-    <option name="y" value="2" />
-    <option name="width" value="1407" />
-    <option name="height" value="976" />
+    <option name="x" value="-8" />
+    <option name="y" value="79" />
+    <option name="width" value="1815" />
+    <option name="height" value="1021" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -366,6 +273,17 @@
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -387,7 +305,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -395,8 +313,70 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="collectionUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis.ddb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jixiang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study" type="1abcf292:AndroidViewProjectNode" />
+              <item name="study" type="e9137016:NonAndroidModuleNode" />
             </path>
           </expand>
           <select />
@@ -404,7 +384,6 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -706,7 +685,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383522000" />
+    <option name="totallyTimeSpent" value="383543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -722,37 +701,61 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4878049" weight="0.32026875" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.81497055" side_tool="true" weight="0.21648216" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.29847494" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.37353256" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49832216" visible="true" weight="0.026119404" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32698768" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.18502943" weight="0.33706608" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3975364" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.18502943" weight="0.31690928" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32922733" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33482644" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33146697" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69204926" visible="true" weight="0.19083156" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69204926" visible="true" weight="0.17697228" />
       <window_info anchor="right" id="Bean Validation" order="4" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3292683" />
+      <window_info anchor="right" id="Database" order="3" weight="0.328879" />
       <window_info id="Structure" order="1" sideWeight="0.30795074" side_tool="true" weight="0.20118782" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32922733" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" x="0" y="0" width="367" height="764" id="Documentation" order="4" side_tool="true" weight="0.329602" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3325868" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.81497055" side_tool="true" weight="0.21648216" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69204926" visible="true" weight="0.19083156" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32922733" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5016779" side_tool="true" visible="true" weight="0.030383795" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33482644" />
+      <window_info id="Structure" order="1" sideWeight="0.30795074" side_tool="true" weight="0.20118782" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.29847494" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32922733" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" x="0" y="0" width="367" height="764" id="Documentation" order="4" side_tool="true" weight="0.329602" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3292683" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32698768" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.18502943" weight="0.33706608" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4878049" weight="0.32026875" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="2" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1193,12 +1196,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="6308" column="25" selection-start-line="6308" selection-start-column="25" selection-end-line="6308" selection-end-column="25" />
-          <folding>
-            <element signature="e#225086#225087#0" expanded="true" />
-            <element signature="e#225135#225136#0" expanded="true" />
-            <element signature="e#226343#226344#0" expanded="true" />
-            <element signature="e#226416#226417#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1206,14 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-32066">
           <caret line="116" column="20" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="20" />
-          <folding>
-            <element signature="e#4677#4678#0" expanded="true" />
-            <element signature="e#4714#4715#0" expanded="true" />
-            <element signature="e#5687#5688#0" expanded="true" />
-            <element signature="e#5750#5751#0" expanded="true" />
-            <element signature="e#21961#21962#0" expanded="true" />
-            <element signature="e#22041#22042#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
